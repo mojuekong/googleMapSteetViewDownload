@@ -3,3 +3,7 @@ googleStreetImgAfterCut/
 tmpImgs/
 googleStreetImgsAfterCut/
 *.zip
+__pycache__/
+.idea/
+*.so
+*.a
