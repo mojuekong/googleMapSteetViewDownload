@@ -4,6 +4,8 @@ tmpImgs/
 googleStreetImgsAfterCut/
 *.zip
 __pycache__/
-.idea/
+.idea
 *.so
 *.a
+bug.iml
+misc.xml

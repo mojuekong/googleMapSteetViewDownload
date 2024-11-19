@@ -37,7 +37,7 @@ def call_streetview_script(url, existing_folders):
 
 if __name__ == "__main__":
     # 读取 JSON 文件
-    with open('googleStreetHtml.json', 'r') as file:
+    with open('./googleMapStreetViewUrls/googleStreetHtml.json', 'r') as file:
         data = json.load(file)
 
     # 获取现有的文件夹名称
